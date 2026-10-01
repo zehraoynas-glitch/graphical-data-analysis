@@ -1,11 +1,12 @@
-# graphical-data-analysis
-Advanced data visualization projects using R. Includes Sinaplot, Sankey/Alluvial diagrams, and Choropleth maps with statistical interpretations
-Sinaplot: 
-Meme kanseri (METABRIC) veri seti üzerinden teşhis yaşı ve hücresel yoğunluk ilişkisinin incelenmesi.
+# Advanced Graphical Data Analysis in R
 
-Sankey / Alluvial Diagram:
-Yaban hayatının şehir ortamlarına adaptasyon analizi (Sankey).
-1995-2021 arası küresel ham petrol ticaretinin kıtalara göre akış analizi (Alluvial).
+Advanced data visualization projects using R, focusing on statistical interpretations and real-world datasets.
 
-Choropleth Map:
-TÜİK verileri kullanılarak 2023 yılı Türkiye illere göre ortalama eğitim süresi haritalandırması.
+## Projects Included
+* **Sinaplot (METABRIC Dataset):** Investigating the relationship between diagnosis age and cellular density using breast cancer clinical data.
+* **Sankey & Alluvial Diagrams:** Wildlife adaptation analysis to urban environments (Sankey) and global crude oil trade flow analysis between 1995-2021 (Alluvial).
+* **Choropleth Map:** Spatial visualization of average education duration across Turkish provinces using TÜİK (Turkish Statistical Institute) data.
+
+## Tech Stack
+* **Language:** R
+* **Libraries:** ggplot2, plotly, dplyr, sf
